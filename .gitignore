@@ -6,6 +6,6 @@
 
 /target/*
 
-.project
-.classpath
+*.project
+*.classpath
 /.settings/*
